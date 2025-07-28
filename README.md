@@ -1,4 +1,5 @@
 ### 👋  Prazer, me chamo Leonardo Lessi 👋
+<hr>
 
 🧶 **Sobre mim**
 - 🎓 Formado recentemente em Análise e Desenvolvimento de Sistemas. Fiz uma formação "full-stack", muito por conta do projeto de conclusão de curso.
@@ -15,20 +16,34 @@
   - Foi um projeto organizado em blueprints. 
   - Documentação gerada automaticamente via Swagger (Flasgger).
 
+<hr>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolessi&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolessi&layout=compact&theme=radical"/>
+</div>
+
+<hr>
 
 ### 📌 Projetos em Destaque
-
+<br>
 <div>
 <img align="center" alt="EJS" src="https://img.shields.io/badge/EJS-E34F26?style=for-the-badge&logo=ejs&logoColor=white" /> <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-- [Sistema de Gerenciamento de Consultas](https://github.com/leolessi/TCC_Tricologia): Projeto web desenvolvido com foco no gerenciamento da clínica: cadastro de clientes e agendamento de horários, otimizando tempo e recursos. Atuei como líder do projeto e no desenvolvimento geral do site, principalmente no Back-end.
+- Projeto web desenvolvido com foco no gerenciamento da clínica: cadastro de clientes e agendamento de horários, otimizando tempo e recursos. Atuei como líder do projeto e no desenvolvimento geral do site, principalmente no Back-end.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leolessi&repo=TCC_Tricologia)](https://github.com/leolessi/estetik)
+
+<br>
 
 <div>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-- [Back-end de um Sistema de Gerenciamento Escolar](https://github.com/leolessi/backend-escola-faat): Projeto desenvolvido em Python para gerenciar informações de uma escola, incluindo alunos, professores e turmas. Também atuei como líder no projeto e em todo o desenvolvimento do sistema.
+- Projeto desenvolvido em Python para gerenciar informações de uma escola, incluindo alunos, professores e turmas. Também atuei como líder no projeto e em todo o desenvolvimento do sistema.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leolessi&repo=backend-escola-faat)](https://github.com/leolessi/backend-escola-faat)
 
 ### ⚙️ Hard Skills
 
