@@ -33,7 +33,7 @@
 
 - Projeto web desenvolvido com foco no gerenciamento da clínica: cadastro de clientes e agendamento de horários, otimizando tempo e recursos. Atuei como líder do projeto e no desenvolvimento geral do site, principalmente no Back-end.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leolessi&repo=TCC_Tricologia)](https://github.com/leolessi/estetik)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leolessi&repo=estetik)](https://github.com/leolessi/estetik)
 
 <br>
 
